@@ -26,3 +26,7 @@ Follow these steps to get started with the project:
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/kmp-room-compose.git
+
+2. Open the project in your preferred IDE.
+
+3. Sync the project with Gradle files to download the necessary dependencies.
